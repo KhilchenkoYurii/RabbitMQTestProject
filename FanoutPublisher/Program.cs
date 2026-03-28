@@ -10,8 +10,6 @@ namespace FanoutPublisher
 
         public static async Task Main(string[] args)
         {
-            //IConnection connection;
-            //IChannel channel;
 
             ConnectionFactory factory = new ConnectionFactory();
             factory.HostName = "localhost";
