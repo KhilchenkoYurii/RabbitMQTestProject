@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replier", "Replier\Replier.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Common", "Demo.Common\Demo.Common.csproj", "{7916011A-4ADF-43A3-A180-B8ABC0DCCE49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublisherForPriorityQueue", "PublisherForPriorityQueue\PublisherForPriorityQueue.csproj", "{DA66AA31-14CE-494A-9872-A8733EF67D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerForPriorityQueue", "WorkerForPriorityQueue\WorkerForPriorityQueue.csproj", "{7D91014E-D157-42EA-8FD0-1CC50F2EE161}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{7916011A-4ADF-43A3-A180-B8ABC0DCCE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7916011A-4ADF-43A3-A180-B8ABC0DCCE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7916011A-4ADF-43A3-A180-B8ABC0DCCE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA66AA31-14CE-494A-9872-A8733EF67D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA66AA31-14CE-494A-9872-A8733EF67D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA66AA31-14CE-494A-9872-A8733EF67D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA66AA31-14CE-494A-9872-A8733EF67D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D91014E-D157-42EA-8FD0-1CC50F2EE161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D91014E-D157-42EA-8FD0-1CC50F2EE161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D91014E-D157-42EA-8FD0-1CC50F2EE161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D91014E-D157-42EA-8FD0-1CC50F2EE161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
